@@ -10,15 +10,14 @@ Vue JS frontend of a simple help page. Here screenshots and process steps could 
 # Contributors
 | TASK                  | PERSONS                                                          | 
 | -------------         |-------------:                                                    | 
-| Project lead          | Moritz Bross, Robin Haensse                                      |
-| Design                | Bernhard Ruchti                                                  | 
-| Programming           | Bernhard Ruchti                                                  | 
-| Multilanguage         | Bernhard Ruchti                                                  | 
+| Project lead          | [Moritz Bross](https://github.com/MoritzBross), [Robin Haensse](https://github.com/StandardWobin)                                    |
+| Design                | [Bernhard Ruchti](https://github.com/bernhardlruchti)                                                  | 
+| Programming           | [Bernhard Ruchti](https://github.com/bernhardlruchti)                                                  | 
+| Multilanguage         | [Bernhard Ruchti](https://github.com/bernhardlruchti)                                                  | 
 
 
 ## Contact
-1. [AGJ-Freiburg](https://agj-freiburg.de/kontaktformular)
-2. the developers using "Issues"
+wohnungslosenhilfe@agj-freiburg.de
 
 
 ## How to use
