@@ -11,9 +11,9 @@ Vue JS frontend of a simple help page. Here screenshots and process steps could 
 | TASK                  | PERSONS                                                          | 
 | -------------         |-------------:                                                    | 
 | Project lead          | [Moritz Bross](https://github.com/MoritzBross), [Robin Haensse](https://github.com/StandardWobin)                                    |
-| Design                | [Bernhard Ruchti](https://github.com/bernhardlruchti)                                                  | 
-| Programming           | [Bernhard Ruchti](https://github.com/bernhardlruchti)                                                  | 
-| Multilanguage         | [Bernhard Ruchti](https://github.com/bernhardlruchti)                                                  | 
+| Design                | [Bernhard L. Ruchti](https://github.com/bernhardlruchti)                                                  | 
+| Programming           | [Bernhard L. Ruchti](https://github.com/bernhardlruchti)                                                  | 
+| Multilanguage         | [Bernhard L. Ruchti](https://github.com/bernhardlruchti)                                                  | 
 
 
 ## Contact
