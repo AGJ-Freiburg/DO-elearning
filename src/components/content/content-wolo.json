@@ -1,0 +1,145 @@
+[
+    {
+        "id": 0,
+        "title": "Anmeldung/Login",
+        "icon": "mdi-login",
+        "tutorial": "anmelden",
+        "step_1": "",
+        "step_2": "",
+        "step_3": "",
+        "step_4": "",
+        "step_5": ""
+    },
+    {
+        "id": 1,
+        "title": "Abmeldung/Logout",
+        "icon": "mdi-logout",
+        "tutorial": "abmeldung",
+        "step_1": "",
+        "step_2": "",
+        "step_3": "",
+        "step_4": "",
+        "step_5": ""
+    },
+    {
+        "id": 2,
+        "title": "Passwort zurücksetzen",
+        "icon": "",
+        "tutorial": "",
+        "step_1": "",
+        "step_2": "",
+        "step_3": "",
+        "step_4": "",
+        "step_5": ""
+    },
+    {
+        "id": 3,
+        "title": "Passwort ändern",
+        "icon": "",
+        "tutorial": "",
+        "step_1": "",
+        "step_2": "",
+        "step_3": "",
+        "step_4": "",
+        "step_5": ""
+    },
+    {
+        "id": 4,
+        "title": "Ordner anlegen",
+        "icon": "",
+        "tutorial": "",
+        "step_1": "",
+        "step_2": "",
+        "step_3": "",
+        "step_4": "",
+        "step_5": ""
+    },
+    {
+        "id": 5,
+        "title": "Dokument hochladen",
+        "icon": "",
+        "tutorial": "",
+        "step_1": "",
+        "step_2": "",
+        "step_3": "",
+        "step_4": "",
+        "step_5": ""
+    },
+    {
+        "id": 6,
+        "title": "Dokument/Ordner freigeben",
+        "icon": "",
+        "tutorial": "",
+        "step_1": "",
+        "step_2": "",
+        "step_3": "",
+        "step_4": "",
+        "step_5": ""
+    },
+    {
+        "id": 7,
+        "title": "Freigabestatus Dokument/Ordner ändern",
+        "icon": "",
+        "tutorial": "",
+        "step_1": "",
+        "step_2": "",
+        "step_3": "",
+        "step_4": "",
+        "step_5": ""
+    },
+    {
+        "id": 8,
+        "title": "Dokument verschieben",
+        "icon": "",
+        "tutorial": "",
+        "step_1": "",
+        "step_2": "",
+        "step_3": "",
+        "step_4": "",
+        "step_5": ""
+    },
+    {
+        "id": 9,
+        "title": "Dokument/Ordner löschen",
+        "icon": "",
+        "tutorial": "",
+        "step_1": "",
+        "step_2": "",
+        "step_3": "",
+        "step_4": "",
+        "step_5": ""
+    },
+    {
+        "id": 10,
+        "title": "Dokument/Ordner umbenennen",
+        "icon": "",
+        "tutorial": "",
+        "step_1": "",
+        "step_2": "",
+        "step_3": "",
+        "step_4": "",
+        "step_5": ""
+    },
+    {
+        "id": 11,
+        "title": "Dokument herunterladen",
+        "icon": "",
+        "tutorial": "",
+        "step_1": "",
+        "step_2": "",
+        "step_3": "",
+        "step_4": "",
+        "step_5": ""
+    },
+    {
+        "id": 12,
+        "title": "Dokument anzeigen",
+        "icon": "",
+        "tutorial": "",
+        "step_1": "",
+        "step_2": "",
+        "step_3": "",
+        "step_4": "",
+        "step_5": ""
+    }
+]
